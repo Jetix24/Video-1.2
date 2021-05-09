@@ -82,7 +82,7 @@ public class Porblemasciclos {
            }while(fin.equalsIgnoreCase("si"));
                 System.out.println("Gracias por utilizar el programa");       
                
-            
+               System.out.println("Version 1.1");
     }
     public static void Números(){
         Scanner sc = new Scanner(System.in);
